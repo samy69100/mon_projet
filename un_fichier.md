@@ -4,9 +4,6 @@
 
 d = new Date(); 
 
-documents.write(d.toLocaleDateString()+'  '+d.toLocaleTimeString()+'.'); 
+document.write(d.toLocaleDateString()+'  '+d.toLocaleTimeString()+'.'); 
 
-
-
-</script> 
 
